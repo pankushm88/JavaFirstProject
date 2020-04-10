@@ -1,0 +1,2 @@
+#created by maven 3.6.3
+version=1.0-SNAPSHOTgroupId=com.sapient.week1artifactId=java-project
